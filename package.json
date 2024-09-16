@@ -1,0 +1,15 @@
+{
+  "name": "module_8r_cs20240227_pto2407_b1_brandon-lee-newman_sdf08_r",
+  "version": "1.0.0",
+  "description": "Create a responsive footer for a website using Tailwind CSS. This project aims to enhance your CSS skills, focusing on responsive design and the utility-first approach of Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./public/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.11"
+  }
+}
